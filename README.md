@@ -1,1 +1,1 @@
-# content-placeholder
+mini project on content placeholder
